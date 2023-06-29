@@ -5,6 +5,8 @@
 # SD WebUI Tag Autocomplete
 ## English • [简体中文](./README_ZH.md) • [日本語](./README_JA.md)
 
+tags里面额外加了两个中文包，通过在设置里面设置可以实现汉译英输入tag
+
 Booru style tag autocompletion for the AUTOMATIC1111 Stable Diffusion WebUI
 
 [![Github Release][release-shield]][release-url]
